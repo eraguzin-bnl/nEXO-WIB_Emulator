@@ -1,0 +1,9 @@
+Warning (10720): Verilog HDL or VHDL warning at WIB_TSE/sv_reconfig_bundle_to_xcvr.sv(26): MESSAGE_ON or MESSAGE_OFF directive cannot process the non-HDL message ID 13024.
+Warning (10720): Verilog HDL or VHDL warning at WIB_TSE/sv_reconfig_bundle_to_xcvr.sv(26): MESSAGE_ON or MESSAGE_OFF directive cannot process the non-HDL message ID 21074.
+Warning (10720): Verilog HDL or VHDL warning at WIB_TSE/av_reconfig_bundle_to_xcvr.sv(26): MESSAGE_ON or MESSAGE_OFF directive cannot process the non-HDL message ID 13024.
+Warning (10720): Verilog HDL or VHDL warning at WIB_TSE/av_reconfig_bundle_to_xcvr.sv(26): MESSAGE_ON or MESSAGE_OFF directive cannot process the non-HDL message ID 21074.
+Warning (10720): Verilog HDL or VHDL warning at GXB_RX/sv_reconfig_bundle_to_xcvr.sv(26): MESSAGE_ON or MESSAGE_OFF directive cannot process the non-HDL message ID 13024.
+Warning (10720): Verilog HDL or VHDL warning at GXB_RX/sv_reconfig_bundle_to_xcvr.sv(26): MESSAGE_ON or MESSAGE_OFF directive cannot process the non-HDL message ID 21074.
+Warning (10720): Verilog HDL or VHDL warning at GXB_RX/av_reconfig_bundle_to_xcvr.sv(26): MESSAGE_ON or MESSAGE_OFF directive cannot process the non-HDL message ID 13024.
+Warning (10720): Verilog HDL or VHDL warning at GXB_RX/av_reconfig_bundle_to_xcvr.sv(26): MESSAGE_ON or MESSAGE_OFF directive cannot process the non-HDL message ID 21074.
+Warning (13024): Output pins are stuck at VCC or GND

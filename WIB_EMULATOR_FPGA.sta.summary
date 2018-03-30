@@ -1,0 +1,1461 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -6.446
+TNS   : -636.481
+
+Type  : Slow 1100mV 85C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -6.432
+TNS   : -633.171
+
+Type  : Slow 1100mV 85C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -6.083
+TNS   : -521.787
+
+Type  : Slow 1100mV 85C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -6.035
+TNS   : -508.433
+
+Type  : Slow 1100mV 85C Model Setup 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -4.423
+TNS   : -1596.691
+
+Type  : Slow 1100mV 85C Model Setup 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.563
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.517
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.554
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.682
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.911
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 7.502
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'altera_reserved_tck'
+Slack : 7.837
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Setup 'clkin_50'
+Slack : 14.152
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -3.253
+TNS   : -6.548
+
+Type  : Slow 1100mV 85C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.224
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.266
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.266
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.267
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.277
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.281
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.282
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.328
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clkin_50'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.465
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -5.634
+TNS   : -224.635
+
+Type  : Slow 1100mV 85C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -5.545
+TNS   : -209.892
+
+Type  : Slow 1100mV 85C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -5.528
+TNS   : -228.019
+
+Type  : Slow 1100mV 85C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -5.123
+TNS   : -218.460
+
+Type  : Slow 1100mV 85C Model Recovery 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -1.004
+TNS   : -473.107
+
+Type  : Slow 1100mV 85C Model Recovery 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -0.575
+TNS   : -147.654
+
+Type  : Slow 1100mV 85C Model Recovery 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.750
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.096
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.552
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.977
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'clkin_50'
+Slack : 5.088
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 6.162
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 9.709
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.459
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.576
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.671
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.776
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'altera_reserved_tck'
+Slack : 0.789
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.838
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.926
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.488
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 2.004
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 2.247
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 2.258
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 2.358
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'clkin_50'
+Slack : 3.543
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.master_cgb_inst[0].tx_cgb_master|hfclkpout'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_tx_plls.gen_tx_plls.tx_plls|pll[0].pll.cmu_pll.tx_pll|clkcdr'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.250
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.013
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.018
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.025
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.025
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.890
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.890
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.890
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.890
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'refclk3R'
+Slack : 3.906
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.998
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.998
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.998
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.998
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SFP_CLK_125MHz'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 4.157
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 4.381
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 6.825
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 6.827
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 7.143
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 7.147
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clkin_50'
+Slack : 9.265
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 11.866
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.606
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -6.234
+TNS   : -608.535
+
+Type  : Slow 1100mV 0C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -6.194
+TNS   : -611.371
+
+Type  : Slow 1100mV 0C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -5.851
+TNS   : -490.545
+
+Type  : Slow 1100mV 0C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -5.844
+TNS   : -502.738
+
+Type  : Slow 1100mV 0C Model Setup 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -4.040
+TNS   : -1387.976
+
+Type  : Slow 1100mV 0C Model Setup 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.853
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.636
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.654
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.778
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.996
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 7.526
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'altera_reserved_tck'
+Slack : 8.375
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'clkin_50'
+Slack : 14.393
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -3.150
+TNS   : -6.296
+
+Type  : Slow 1100mV 0C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.159
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.223
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.247
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.253
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.263
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.304
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clkin_50'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -5.398
+TNS   : -215.490
+
+Type  : Slow 1100mV 0C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -5.320
+TNS   : -201.777
+
+Type  : Slow 1100mV 0C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -5.297
+TNS   : -218.953
+
+Type  : Slow 1100mV 0C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -4.919
+TNS   : -210.248
+
+Type  : Slow 1100mV 0C Model Recovery 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -0.874
+TNS   : -355.979
+
+Type  : Slow 1100mV 0C Model Recovery 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -0.417
+TNS   : -104.192
+
+Type  : Slow 1100mV 0C Model Recovery 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.915
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.362
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.750
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 5.149
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'clkin_50'
+Slack : 5.299
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 6.402
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 10.279
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.368
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.503
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.607
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.640
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.733
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.780
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.851
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.306
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 1.902
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 2.121
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 2.151
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 2.238
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'clkin_50'
+Slack : 3.436
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.master_cgb_inst[0].tx_cgb_master|hfclkpout'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_tx_plls.gen_tx_plls.tx_plls|pll[0].pll.cmu_pll.tx_pll|clkcdr'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.250
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.970
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.978
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.984
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 2.988
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.892
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.892
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.892
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.892
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'refclk3R'
+Slack : 3.906
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.998
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.998
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.998
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.998
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SFP_CLK_125MHz'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 4.130
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 4.429
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 6.786
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 6.787
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 7.079
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 7.080
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clkin_50'
+Slack : 9.330
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 11.921
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.553
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -4.521
+TNS   : -437.585
+
+Type  : Fast 1100mV 85C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -4.353
+TNS   : -432.421
+
+Type  : Fast 1100mV 85C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -4.219
+TNS   : -357.297
+
+Type  : Fast 1100mV 85C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -4.125
+TNS   : -347.517
+
+Type  : Fast 1100mV 85C Model Setup 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -3.432
+TNS   : -974.201
+
+Type  : Fast 1100mV 85C Model Setup 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.847
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.890
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.349
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.463
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.854
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 8.524
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'altera_reserved_tck'
+Slack : 11.270
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'clkin_50'
+Slack : 15.833
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -2.307
+TNS   : -5.708
+
+Type  : Fast 1100mV 85C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.013
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.033
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.167
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.175
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clkin_50'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.225
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -3.939
+TNS   : -157.266
+
+Type  : Fast 1100mV 85C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -3.869
+TNS   : -146.067
+
+Type  : Fast 1100mV 85C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -3.852
+TNS   : -157.478
+
+Type  : Fast 1100mV 85C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -3.525
+TNS   : -149.434
+
+Type  : Fast 1100mV 85C Model Recovery 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.427
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.705
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 5.096
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 5.183
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 5.488
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 5.823
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'clkin_50'
+Slack : 6.315
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 7.401
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 11.866
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.276
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'altera_reserved_tck'
+Slack : 0.481
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.513
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.519
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.555
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.681
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 1.120
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 1.304
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 1.306
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 1.386
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'clkin_50'
+Slack : 2.680
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.master_cgb_inst[0].tx_cgb_master|hfclkpout'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_tx_plls.gen_tx_plls.tx_plls|pll[0].pll.cmu_pll.tx_pll|clkcdr'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.250
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.051
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.056
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.063
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.066
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.896
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.896
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.896
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.896
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'refclk3R'
+Slack : 3.906
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.996
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.996
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.996
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.996
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SFP_CLK_125MHz'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 4.203
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 4.657
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 6.866
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 6.883
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 7.338
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 7.341
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clkin_50'
+Slack : 9.260
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 12.144
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.193
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -4.277
+TNS   : -417.378
+
+Type  : Fast 1100mV 0C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -4.153
+TNS   : -412.618
+
+Type  : Fast 1100mV 0C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -4.004
+TNS   : -341.845
+
+Type  : Fast 1100mV 0C Model Setup 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -3.953
+TNS   : -333.836
+
+Type  : Fast 1100mV 0C Model Setup 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -2.689
+TNS   : -764.244
+
+Type  : Fast 1100mV 0C Model Setup 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 2.238
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.325
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.646
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 4.660
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 5.129
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 8.606
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'altera_reserved_tck'
+Slack : 11.978
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'clkin_50'
+Slack : 16.314
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : -2.260
+TNS   : -57.817
+
+Type  : Fast 1100mV 0C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -0.017
+TNS   : -0.017
+
+Type  : Fast 1100mV 0C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -0.003
+TNS   : -0.003
+
+Type  : Fast 1100mV 0C Model Hold 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.082
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.095
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.123
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.158
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.162
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.163
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clkin_50'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -3.749
+TNS   : -149.833
+
+Type  : Fast 1100mV 0C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -3.691
+TNS   : -140.044
+
+Type  : Fast 1100mV 0C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -3.675
+TNS   : -151.134
+
+Type  : Fast 1100mV 0C Model Recovery 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : -3.391
+TNS   : -144.196
+
+Type  : Fast 1100mV 0C Model Recovery 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.560
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 1.839
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 5.349
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 5.559
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 5.794
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 6.084
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'clkin_50'
+Slack : 6.571
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 7.692
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 12.612
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.197
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.280
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.295
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.515
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 1.030
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 1.197
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 1.202
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 1.268
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'clkin_50'
+Slack : 2.570
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.781
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.master_cgb_inst[0].tx_cgb_master|hfclkpout'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_tx_plls.gen_tx_plls.tx_plls|pll[0].pll.cmu_pll.tx_pll|clkcdr'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_cdr|clk90bdes'
+Slack : 0.800
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.250
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.068
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.069
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.072
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_tx_pcs|wys|txpmalocalclk'
+Slack : 3.074
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.898
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.898
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.898
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 3.898
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'refclk3R'
+Slack : 3.906
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.997
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.997
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.997
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_tx_pma|tx_pma_insts[0].av_tx_pma_ch_inst|tx_pma_ch.tx_cgb|lfclkp'
+Slack : 3.997
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SFP_CLK_125MHz'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip0_and_config|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip1|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip2|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'udp_io_inst_Chip3|WIB_TSE_inst|wib_tse_inst|i_custom_phyip_0|A5|transceiver_core|gen.av_xcvr_native_insts[0].gen_bonded_group.av_xcvr_native_inst|inst_av_pma|av_rx_pma|rx_pmas[0].rx_pma.rx_pma_deser|clk90b'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[2].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 4.187
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SYSTEM_SYNC_PLL_inst|system_sync_pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 4.646
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[3].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 6.867
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[2].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 6.877
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[0].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 7.327
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SBND_HSRX_inst|GXB_RX_INST1|gxb_rx_inst|gen_native_inst.av_xcvr_native_insts[1].gen_bonded_group_native.av_xcvr_native_inst|inst_av_pcs|ch[0].inst_av_pcs_ch|inst_av_hssi_8g_rx_pcs|wys|rcvdclkpma'
+Slack : 7.331
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clkin_50'
+Slack : 9.288
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'WIB_PLL_SYS_inst|wib_pll_sys_inst|altera_pll_i|general[3].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 12.140
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 15.210
+TNS   : 0.000
+
+------------------------------------------------------------

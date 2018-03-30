@@ -1,0 +1,7 @@
+{
+	"common_dir" : "D:/share/SBND/FPGA/SBND_WIB_EMULATOR_FPGA/",
+	"acds_version" : "Version 15.1.0",
+	"platform" : "windows",
+	"os" : "Windows 7",
+	"qpf" : "WIB_EMULATOR_FPGA.qpf"
+}

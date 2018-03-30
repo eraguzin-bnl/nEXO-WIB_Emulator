@@ -1,0 +1,46 @@
+
+
+D:/Code/WIB_EMULATOR_FPGA_V105_restored/WIB_TSE.vhd
+
+Jun 01 03PM:35:20>: Megafunction Triple-Speed Ethernet v15.0 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/Code/WIB_EMULATOR_FPGA_V105_restored/WIB_TSE.vhd
+
+Jun 01 03PM:35:40>: Megafunction Triple-Speed Ethernet v15.0 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/Code/WIB_EMULATOR_FPGA_V105_restored/WIB_TSE.vhd
+
+Jun 01 03PM:36:03>: Megafunction Triple-Speed Ethernet v15.0 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/Code/WIB_EMULATOR_FPGA_V105_restored/WIB_TSE.vhd
+
+Jun 01 03PM:36:39>: Megafunction Triple-Speed Ethernet v15.0 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/Code/WIB_EMULATOR_FPGA_V105_restored/WIB_TSE.vhd
+
+Jun 01 04PM:15:45>: Megafunction Triple-Speed Ethernet v15.0 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/Code/WIB_EMULATOR_FPGA_V105_restored/WIB_TSE.vhd
+
+Jun 01 04PM:17:06>: Megafunction Triple-Speed Ethernet v15.0 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/Code/WIB_EMULATOR_FPGA_V105_restored/WIB_TSE.vhd
+
+Jun 01 05PM:07:05>: Megafunction Triple-Speed Ethernet v15.0 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/Code/WIB_EMULATOR_FPGA_V105_restored/WIB_TSE.vhd
+
+Jun 01 05PM:09:44>: Megafunction Triple-Speed Ethernet v15.0 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+D:/Code/WIB_EMULATOR_FPGA_V105_restored/WIB_TSE.vhd
+
+Jun 01 05PM:22:47>: Megafunction Triple-Speed Ethernet v15.0 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted

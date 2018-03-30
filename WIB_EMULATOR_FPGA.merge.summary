@@ -1,0 +1,17 @@
+Partition Merge Status : Failed - Fri Jun 02 11:13:26 2017
+Quartus II 64-Bit Version : 14.1.0 Build 186 12/03/2014 SJ Full Version
+Revision Name : WIB_EMULATOR_FPGA
+Top-level Entity Name : WIB_EMULATOR_FPGA
+Family : Arria V
+Logic utilization (in ALMs) : 17,646 / 136,880 ( 13 % )
+Total registers : 27298
+Total pins : 51 / 656 ( 8 % )
+Total virtual pins : 0
+Total block memory bits : 12,706,560 / 17,674,240 ( 72 % )
+Total DSP Blocks : 0 / 1,045 ( 0 % )
+Total HSSI RX PCSs : 8 / 24 ( 33 % )
+Total HSSI PMA RX Deserializers : 8 / 24 ( 33 % )
+Total HSSI TX PCSs : 4 / 24 ( 17 % )
+Total HSSI PMA TX Serializers : 4 / 24 ( 17 % )
+Total PLLs : 2 / 36 ( 6 % )
+Total DLLs : 0 / 4 ( 0 % )
